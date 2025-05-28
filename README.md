@@ -10,7 +10,7 @@ PlatformIO project
 
 ## Control interface  
 Open in Chrome or Edge (required WebMIDI and WebSerial)  
-### [LINK](https://github.com/hexeguitar/Teensy40-FX-Module/html/T40_FXmodule.html "T40 FX module Control Interface") 
+### [LINK](https://hexeguitar.github.io/Teensy40-FX-Module/html/T40_FXmodule.html "T40 FX module Control Interface") 
 ---  
 (c) 2025 by Piotr Zapart  
 www.hexefx.com  
