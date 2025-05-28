@@ -256,7 +256,7 @@ void cb_ControlChange(uint8_t channel, uint8_t control, uint8_t value)
 			Phaser.lfo_rate(valuef * valuef * 10.0f);
 			break;
 		case MIDI_CC_PHASER_FEEDBACK:
-			Phaser.feedback(valuef);
+			Phaser.feedback((valuef*2.0f) - 1.0f);
 			break;
 		case MIDI_CC_PHASER_STEREO_DEPTH:
 			Phaser.stereo(valuef);
